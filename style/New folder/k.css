@@ -1,0 +1,13 @@
+﻿.p,.o{
+           margin-left: auto;
+           margin-right: auto;
+           width:500px;
+}
+.p {
+          background- color: "yellow";
+          height:300px;
+}
+.o{ 
+       background-color:"red";
+       height:150px;
+}
